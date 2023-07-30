@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I'm Filip Senekovič.
 
-<!--
-**FilipSenekovic/FilipSenekovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+I'm a Computer Science student passionate about software development and always eager to learn new things. I'm currently sharpening my Java skills and working on backend development using Spring Boot.
 
-Here are some ideas to get you started:
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,nodejs,html,css,php,postgresql,mysql,postman,kotlin,c,cpp,cs,python)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools
+[![My Tools](https://skillicons.dev/icons?i=docker,git,github,androidstudio,bash,idea,vscode,unity,stackoverflow)](https://skillicons.dev)
+
+# Education
+
+### FERI Maribor - Oct 2020 - Now
+- Bachelor of Science in Computer Science and Information Technologies
+
+### SERŠ Maribor - Sep 2016 - Jun 2020
+- Computer technician
